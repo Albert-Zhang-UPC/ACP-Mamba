@@ -212,7 +212,7 @@ If you use ACP-Mamba in your research, please cite the manuscript. The entry bel
 @misc{zhang_acpmamba,
   title  = {{ACP-Mamba}: Value-Based Thrust Control of Unmanned Underwater Vehicles through Action-Conditioned Predictive State-Space Beliefs},
   author = {Zhang, Tianze and Tao, Xiaowen and Wu, Lei and Wang, Yangyang and Qin, Hongde},
-  note   = {Manuscript},
+  note   = {Submitted to OE},
   url    = {https://github.com/Albert-Zhang-UPC/ACP-Mamba}
 }
 ```
